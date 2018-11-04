@@ -27,7 +27,7 @@ server.get('/', (req, res) => {
     res.type(`image/${format || 'png'}`);
 
     // Get the resized image
-    resize('http:regardscroises.ivoire-blog.com/media/00/01/821898663.png', format, width, height).pipe(res);
+    resize('dosso.jpg', format, width, height).pipe(res);
 });
 
 server.listen(8000, () => {
