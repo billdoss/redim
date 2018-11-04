@@ -30,6 +30,6 @@ server.get('/', (req, res) => {
     resize('dosso.jpg', format, width, height).pipe(res);
 });
 
-server.listen(8000, () => {
+server.listen(7000, () => {
     console.log('server lancé !!');
 });
