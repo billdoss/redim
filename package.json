@@ -1,0 +1,24 @@
+{
+  "name": "redim",
+  "version": "1.0.0",
+  "description": "all dependances used",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sharp": "^0.25.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billdoss/redim.git"
+  },
+  "author": "Abdoul-rhamane Dosso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billdoss/redim/issues"
+  },
+  "homepage": "https://github.com/billdoss/redim#readme"
+}
