@@ -4,7 +4,7 @@
   "description": "all dependances used",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mocha": "^8.0.1",
     "sharp": "^0.25.4"
   },
